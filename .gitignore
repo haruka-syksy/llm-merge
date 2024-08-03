@@ -1,0 +1,11 @@
+# General
+.DS_Store
+
+.ipynb_checkpoints/
+chat_model/
+*huggingface-cache/
+logs/
+test/
+
+# 環境変数ファイル
+.env
